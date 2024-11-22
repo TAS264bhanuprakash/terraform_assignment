@@ -115,14 +115,18 @@ pipeline {
 **Jenkins Pipeline**
 
 ![terra1](https://github.com/user-attachments/assets/f4326e3f-2a80-4136-9f6c-3e7cd0844e2e)
+
 **After Running you Will Get the Public_IP Copy That and Past it in the Browser**
+
 **Jenkins Console**
 
 ![terra2](https://github.com/user-attachments/assets/fbc96a43-ef73-4128-a12f-a10a5ae9154a)
 
 **AWS Instances**
+
 ![terra4](https://github.com/user-attachments/assets/a280cf7b-a50a-4c86-b7b9-58e9412234fc)
 
-**Output When We Run the Public_Ip**
+**Output When We Run the Public_IP**
+
 ![terra3](https://github.com/user-attachments/assets/2488b607-3f1f-4ec1-afab-c6053d7fde4b)
 
